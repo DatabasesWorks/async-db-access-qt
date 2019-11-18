@@ -7,6 +7,6 @@ access with Qt. To compile:
 By default, this sample app will use sqlite to create a local
 database. See db.h to change this behavior.
 
-
+![screenshot](https://github.com/DatabasesWorks/async-db-access-qt/blob/master/screenshot.png)
 
 
